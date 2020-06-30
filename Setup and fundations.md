@@ -7,4 +7,4 @@ ng serve
 
 When opening the directory, the structure is like this:
 
-![](../pictures/setup and fundation/Structure.png)
+![](../pictures/Structure.png)
