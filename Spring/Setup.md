@@ -1,4 +1,4 @@
-# StringBoot Setup
+# Spring Setup
 
 ## Initialization
 
